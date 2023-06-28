@@ -5,7 +5,7 @@
 
 - Erstellt eine index.html, style.css und script.js Datei
 - erstellt eine html Grundstruktur
-- verlinkt die Style und Scirpt Datei in der HTML
+- verlinkt die Style und Script Datei in der HTML
 - in der html Datei sollte es eine Box mit 3 buttons geben, untereinander und in der Mitte der Box zentriert 
 - darunter findet sich eine weitere Box mit einem Input Feld und einem Button (verwendet hier kein form Element sondern nur ein input)
 - zum schluss kommt eine weitere Box mit einem Button und in der Box befindet sich eine leere Sektion
