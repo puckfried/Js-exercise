@@ -14,9 +14,9 @@
 
 ### Aufgabe
 - jeder `button` soll eine Funktionalität bekommen
-- `Farbe` --> der Kasten soll eingefärbe werden 
-- `Drehen` --> alle Kästen sollen sich um 360 Grad drehen, benutzt `transition` um den Effekt zu sehen 
-- `Ausblenden` --> beim Klicken soll der ganze Kasten verschwinden
+- `Farbe` --> der erste Kasten soll eingefärbe werden 
+- `Drehen` --> der erste Kasten soll sich um 360 Grad drehen, benutzt `transition` um den Effekt zu sehen 
+- `Ausblenden` --> beim Klicken soll der Kasten verschwinden
 - `Print` --> der Text aus dem Eingabefeld soll dadrunter ausgegeben werden
 <br>
 
