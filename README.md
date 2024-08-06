@@ -22,4 +22,4 @@
 
 **Bonus** *hattten wir nicht in der Präsentation, versucht es zu googlen, oder fragt mich :-)*
 - `Create` --> bei jedem Klick sollen 5 neue kleine Boxen in der Box entstehen
-- versucht beim `button` Farbe eine zufällige Farbe bei jedem Klick zu vergeben, das geht nicht mit Klassen im CSS, nur mit element.style.backgroundColor)
+- versucht beim `button` Farbe eine zufällige Farbe mit jedem Klick zu vergeben, das geht nicht mit Klassen im CSS, nur mit element.style.backgroundColor)
