@@ -9,7 +9,7 @@
 - darunter findet sich eine weitere Box mit einem `input` Feld und einem `button` (*verwendet hier kein form Element sondern nur ein input*)
 - zum Schluss kommt eine weitere Box mit einem Button und in der Box befindet sich eine leere `section`
 
-<br>
+
 ![Vorschau der Seite](mockup.png)
 
 ### Aufgabe
