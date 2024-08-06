@@ -18,7 +18,8 @@
 - `Drehen` --> alle Kästen sollen sich um 360 Grad drehen, benutzt `transition` um den Effekt zu sehen 
 - `Ausblenden` --> beim Klicken soll der ganze Kasten verschwinden
 - `Print` --> der Text aus dem Eingabefeld soll dadrunter ausgegeben werden
-<br>  
+<br>
+
 **Bonus** *hattten wir nicht in der Präsentation, versucht es zu googlen, oder fragt mich :-)*
 - `Create` --> bei jedem Klick sollen 5 neue kleine Boxen in der Box entstehen
 - versucht beim `button` Farbe eine zufällige Farbe bei jedem Klick zu vergeben, das geht nicht mit Klassen im CSS, nur mit element.style.backgroundColor)
