@@ -13,7 +13,7 @@
 
 ### Aufgabe
 - jeder Button soll eine Funktionalität bekommen
-- `Farbe` --> der kasten soll eingefärbe werden (Challenge: versucht eine zufällige Farbe bei jedem Klick zu vergeben, das geht nicht mit Klasse im CSS, nur mit element.style.backgroundColor)
+- `Farbe` --> der Kasten soll eingefärbe werden (Challenge: versucht eine zufällige Farbe bei jedem Klick zu vergeben, das geht nicht mit Klasse im CSS, nur mit element.style.backgroundColor)
 - `Drehen` --> alle Kästen sollen sich um 360 Grad drehen, benutzt `transition` um den Effekt zu sehen 
 - `Ausblenden` --> beim Klicken soll der ganze Kasten verschwinden
 
