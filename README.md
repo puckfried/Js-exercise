@@ -11,7 +11,6 @@
 
 <br>
 ![Vorschau der Seite](mockup.png)
-<br>
 
 ### Aufgabe
 - jeder `button` soll eine Funktionalität bekommen
