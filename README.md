@@ -11,6 +11,8 @@
 - Die dritte Box ist Bonus (siehe unten): Eine Box mit einem Button (**Erstelle**) und einer leeren `div` (nicht sichtbar, da kein Inhalt)
 
 ***Hier eine mögliche Darstellung, aber es kommt nicht darauf an, das Design zu treffen, so können eure Buttons auch nebeneinander sein:***
+<br>
+
 ![Vorschau der Seite](mockup.png)
 
 ### Aufgabe
