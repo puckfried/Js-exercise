@@ -1,6 +1,6 @@
 # JavaScript Exercise
 
-**[🇩🇪 Deutsch](README.md)** | 🇺🇸 English
+**[Deutsch](README.md)** | English
 
 ## Preparation
 
